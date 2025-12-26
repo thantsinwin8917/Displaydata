@@ -1,0 +1,75 @@
+.register-container {
+
+    max-width: 520px;
+  
+    margin: 30px auto;
+  
+  
+  }
+   
+  h2 {
+  
+    margin-bottom: 20px;
+  
+  }
+   
+  .form-group {
+  
+    margin-bottom: 14px;
+  
+  }
+   
+  .form-group label {
+  
+  
+    margin-bottom: 6px;
+  
+  }
+   
+  input[type="text"],
+  
+  select,
+  
+  input:not([type]) {
+  
+    width: 100%;
+  
+    padding: 8px;
+  
+  
+  }
+   
+  .option {
+  
+  
+    font-weight: normal;
+  
+    margin-bottom: 4px;
+  
+  }
+   
+  .option input {
+  
+    margin-right: 8px;
+  
+  }
+   
+  hr {
+  
+    margin: 20px 0;
+  
+  }
+   
+  .result p {
+  
+    margin: 6px 0;
+  
+  }
+   
+  .result span {
+  
+    color: brown;
+  
+  }
+  
+   
